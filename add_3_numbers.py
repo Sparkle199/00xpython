@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
 #To add three integers
-a = 5
-b = 4
-c = 9
-print(a+b+c)
+a = float(input("first number: "))
+b = float(input("second number: "))
+c = float(input("third number: "))
+
+result = a + b + c
+print(result)
