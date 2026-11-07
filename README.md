@@ -4,25 +4,26 @@ This repository is my personal Python refresher project. It is part of a 20-day 
 
 ## What I have done so far
 
-- Set up the repository as a learning project
-- Created a simple Python starter script in `main.py`
-- Built a basic arithmetic exercise in `add_3_numbers.py` that:
-  - prompts the user for three numbers
-  - converts them to floats
-  - adds them together
-  - prints the result
+- Set up the repository as a Python refresher project
+- Created a basic "Hello" script in `0-hello.py` to practice printing output
+- Created a simple welcome script in `0-main.py` as an intro to running Python files
+- Built an arithmetic example in `1-arithmetic.py` to work with variables and multiplication
+- Added a conditional logic exercise in `2-conditionals.py` to practice `if` / `else` statements and user input
 
 ## Project files
 
-- `main.py` - a simple introductory script that prints a welcome message
-- `add_3_numbers.py` - a beginner-friendly script for basic input and arithmetic
+- `0-hello.py` - prints a few lines of text to explore Python output
+- `0-main.py` - a basic introductory script
+- `1-arithmetic.py` - calculates a simple total using variables
+- `2-conditionals.py` - asks for a user's age and checks whether they are eligible for admission
 
 ## Goals for this challenge
 
 - Review Python basics such as variables, input/output, and operators
 - Practice writing clean, readable Python scripts
 - Build confidence with small hands-on exercises before moving to more advanced topics
+- Start understanding decision-making through conditionals
 
 ## Status
 
-This is the initial stage of the refresher journey, with foundational Python exercises already in place.
+This is the early stage of the refresher journey, and I have completed the foundational beginner exercises covering output, variables, arithmetic, and simple conditionals.
